@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 body
+=======
+body 
+>>>>>>> cd44bf9cf1c7321e9cb72ec0cef7e4db5ee29869
 {
     background: #1e1f24;
     color: #333;
     text-align: center;
+<<<<<<< HEAD
     font-family: Arial;
+=======
+    font-family: "arial";
+>>>>>>> cd44bf9cf1c7321e9cb72ec0cef7e4db5ee29869
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -19,7 +27,11 @@ body
     padding: 0.5em;
 }
 
+<<<<<<< HEAD
 #cabecera #logo
+=======
+#cabecera #logo 
+>>>>>>> cd44bf9cf1c7321e9cb72ec0cef7e4db5ee29869
 {
     width: 20px;
     vertical-align: middle;
@@ -27,12 +39,21 @@ body
 
 #cabecera #tagline
 {
+<<<<<<< HEAD
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
 
 #container
+=======
+   padding: 0 0 0 1em;
+   font-weight: normal;
+   font-size: 0,8em; 
+}
+
+#container 
+>>>>>>> cd44bf9cf1c7321e9cb72ec0cef7e4db5ee29869
 {
     width: 70%;
     padding: 0;
@@ -45,10 +66,15 @@ body
 {
     font-size: 20px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> cd44bf9cf1c7321e9cb72ec0cef7e4db5ee29869
 #post
 {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
 }
 
 #footer
@@ -59,3 +85,6 @@ body
     padding: 0.5em;
 }
 
+=======
+}
+>>>>>>> cd44bf9cf1c7321e9cb72ec0cef7e4db5ee29869
