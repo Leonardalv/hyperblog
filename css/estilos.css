@@ -20,13 +20,10 @@ body
     padding: 0.5em;
 }
 
-<<<<<<< HEAD
-#cabecera #logo
-=======
+
 
 
 #cabecera #logo 
->>>>>>> a4626971e707bd770d9e752cbea7af92f50bc360
 {
     width: 20px;
     vertical-align: middle;
@@ -52,11 +49,8 @@ body
 {
    font-size: 20px; 
 }
-<<<<<<< HEAD
-=======
 
 
->>>>>>> a4626971e707bd770d9e752cbea7af92f50bc360
 #post
 {
     background: white;
